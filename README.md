@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻Hello, I'm Dorlens<br>I'm interested in...<br>- Software Engineering<br>- Backend web Development<br>-Artificial Intelligence<br>🧠I’m currently learning….<br>- Bs in Software Engineering<br>💬 How to contact me…<br>-LinkedIn: Dorlens Janvier<br>- GitHub<br>
+👨🏽‍💻Hello, I'm Dorlens<br>I'm interested in...<br>- Software Engineering<br>- Full-Stack web Development<br>-Artificial Intelligence<br>🧠I’m currently learning….<br>- Bs in Software Engineering<br>💬 How to contact me…<br>-LinkedIn: Dorlens Janvier<br>- GitHub<br>
 
 
 ## 🌐 Socials:
